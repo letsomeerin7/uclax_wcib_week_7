@@ -1,0 +1,30 @@
+body {
+  background-image: url(../images/swirls.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: georgia, serif;
+  margin: 20px; }
+
+h1 {
+  text-align: center;
+  color: pink;
+  font-weight: bold;
+  font-size: 5rem;
+  text-shadow: 2px 2px 2px teal, 2px -2px 2px teal, -2px 2px 2px teal, -2px -2px 2px teal; }
+
+.baby_reveal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: auto;
+  align-items: center;
+  justify-content: center; }
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: pink;
+  color: teal;
+  font-size: 20px; }
